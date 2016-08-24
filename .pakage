@@ -1,0 +1,5 @@
+array = ["dog", "kid", "horse", "bird"];
+
+for (var i = 0, maxLength = 4; i < array.length; i++) {
+  console.log(array[i]);
+}
